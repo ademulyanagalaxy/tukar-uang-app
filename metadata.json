@@ -1,0 +1,5 @@
+{
+  "name": "Tukar Uang",
+  "description": "Konverter mata uang real-time menggunakan nilai tukar pasar langsung.",
+  "requestFramePermissions": []
+}
